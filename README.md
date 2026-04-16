@@ -2,8 +2,6 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/zyadfallatah?cardType=github&theme=onedark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
-###
-
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" alt="typescript logo"  />
@@ -35,5 +33,3 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
-
-###
