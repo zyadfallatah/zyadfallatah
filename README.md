@@ -1,35 +1,68 @@
-<h1>Zyadfallatah | Software Developer</h1>
+<div align="center">
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/zyadfallatah?cardType=github&theme=onedark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="30" height="30" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30" alt="nodejs logo"  />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"  width="30" height="30" alt="docker logo" />
-  <br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"  width="30" height="30" alt="express logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"  width="30" height="30" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  width="30" height="30" alt="postgresql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg"  width="30" height="30" alt="astro logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"  width="30" height="30" alt="linux logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"  width="30" height="30" alt="mongodb logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"  width="30" height="30" alt="vite logo" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Ziyad%20Fallatah&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Makkah%2C%20Saudi%20Arabia&descAlignY=58&descSize=18&descColor=aaaaaa" width="100%" />
 
 </div>
 
-###
+---
+
+### About
+
+Full-stack JavaScript developer focused on building real products — web platforms, mobile apps, and the systems that connect them. Currently studying Computer Science at Umm Al-Qura University while shipping things on the side.
+
+---
+
+### Stack
+
+**Languages & Frameworks**
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,html,css,tailwind&perline=9)](https://skillicons.dev)
+
+**Databases & Infrastructure**
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,supabase,docker,aws,linux,git&perline=9)](https://skillicons.dev)
+
+**Mobile & Other Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,figma,vite,astro,github&perline=9)](https://skillicons.dev)
+
+---
+
+### Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=zyadfallatah&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyadfallatah&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=zyadfallatah&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+### Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Mulabbi**](https://portfolio.zyadfallatah.com/media/mulabbi) | Hajj & Umrah companion app — step-by-step nusuk tracking, Quran, Qibla, Athkar | Flutter · Supabase · GetX |
+| [**DevFlow**](https://github.com/zyadfallatah/devflow) | Developer Q&A platform with AI-powered answers, OAuth, and MDX code rendering | Next.js · MongoDB · OpenAI |
+| [**Moraqeb**](https://github.com/zyadfallatah/moraqeb) | Smart land management platform for Makkah's Holy Sites — GIS maps, deed data | Next.js · ArcGIS · PostgreSQL |
+
+---
+
+### Connect
 
 <div align="left">
-  <a href="https://linkedin.com/in/ziyad-fallatah" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/zyad_fallatah" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://zyadfallatah.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ziyad-fallatah)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zyad_fallatah)
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%" />
