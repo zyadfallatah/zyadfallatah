@@ -49,9 +49,9 @@ Full-stack JavaScript developer focused on building real products — web platfo
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Mulabbi**](https://portfolio.zyadfallatah.com/media/mulabbi) | Hajj & Umrah companion app — step-by-step nusuk tracking, Quran, Qibla, Athkar | Flutter · Supabase · GetX |
-| [**DevFlow**](https://devflow.zyadfallatah.com) | Developer Q&A platform with AI-powered answers, OAuth, and MDX code rendering | Next.js · MongoDB · OpenAI |
-| [**Moraqeb**](https://github.com/zyadfallatah/moraqeb) | Smart land management platform for Makkah's Holy Sites — GIS maps, deed data | Next.js · ArcGIS · PostgreSQL |
+| [**Sanad**](https://sanad.zyadfallatah.com) | Deadline-first collaboration space — time-bound sessions, shared vault, checkpoint tracking | TypeScript · Socket.io · Node.js · PostgreSQL · Redis |
+| [**Mawsem**](https://mawsem.eny.sa) | Seasonal demand forecasting for Saudi supermarkets — Hijri-calendar-aware, ML-driven order recommendations | React · Laravel · Python · MariaDB |
+| [**Mulabbi**](https://portfolio.zyadfallatah.com/media/mulabbi) | Hajj & Umrah companion app — step-by-step nusuktracking, Quran, Qibla, Athkar | Flutter · Supabase · GetX |
 
 ---
 
