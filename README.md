@@ -20,11 +20,11 @@ Full-stack JavaScript developer focused on building real products — web platfo
 
 **Databases & Infrastructure**
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,supabase,docker,aws,linux,git&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,supabase,docker,git&perline=9)](https://skillicons.dev)
 
-**Mobile & Other Tools**
+**Other Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,figma,vite,astro,github&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,vite,astro,github&perline=9)](https://skillicons.dev)
 
 ---
 
