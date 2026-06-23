@@ -8,7 +8,7 @@
 
 ### About
 
-Full-stack JavaScript developer focused on building real products — web platforms, mobile apps, and the systems that connect them. Currently studying Computer Science at Umm Al-Qura University while shipping things on the side.
+I'm Ziyad. I build backend systems and think in problems before code. don't start building until I understand why something needs to exist.
 
 ---
 
